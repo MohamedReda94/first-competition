@@ -9,9 +9,9 @@ header{
     height: 450px;
     width: 100%;
     background-image: url(blue_bg.png);
-    background-size:cover;
     background-repeat:no-repeat ;
-    background-position:center;
+    background-position:top;
+    background-size: 100% 400px;
 }
 header nav {
     display: flex;
